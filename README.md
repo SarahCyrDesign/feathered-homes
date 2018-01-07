@@ -67,7 +67,7 @@ To contribute/ please fork and send me a pull request with any changes
 
 ## License
 
-This project is licensed under the MIT License
+This project is licensed under the MIT License and can be found here: https://github.com/SarahCyrDesign/feathered-homes/blob/master/LICENSE
 
 ## Acknowledgments
 
